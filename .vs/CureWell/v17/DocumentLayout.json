@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CA2A2-B330-43BE-8047-CE1071A3F293}|CureWellServices\\CureWellServices.csproj|c:\\gopika_one_drive\\onedrive\\desktop\\dotnet fs\\fe\u002Bbe\\curewell\\curewellservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9CA2A2-B330-43BE-8047-CE1071A3F293}|CureWellServices\\CureWellServices.csproj|solutionrelative:curewellservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CA2A2-B330-43BE-8047-CE1071A3F293}|CureWellServices\\CureWellServices.csproj|c:\\gopika_one_drive\\onedrive\\desktop\\dotnet fs\\fe\u002Bbe\\curewell\\curewellservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A9CA2A2-B330-43BE-8047-CE1071A3F293}|CureWellServices\\CureWellServices.csproj|solutionrelative:curewellservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CA2A2-B330-43BE-8047-CE1071A3F293}|CureWellServices\\CureWellServices.csproj|c:\\gopika_one_drive\\onedrive\\desktop\\dotnet fs\\fe\u002Bbe\\curewell\\curewellservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A9CA2A2-B330-43BE-8047-CE1071A3F293}|CureWellServices\\CureWellServices.csproj|solutionrelative:curewellservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CA2A2-B330-43BE-8047-CE1071A3F293}|CureWellServices\\CureWellServices.csproj|c:\\gopika_one_drive\\onedrive\\desktop\\dotnet fs\\fe\u002Bbe\\curewell\\curewellservices\\controllers\\curewellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9CA2A2-B330-43BE-8047-CE1071A3F293}|CureWellServices\\CureWellServices.csproj|solutionrelative:curewellservices\\controllers\\curewellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB06FD9-DF62-4B69-ADAC-EE3E91FCB4C8}|CureWellDataAccessLayer\\CureWellDataAccessLayer.csproj|c:\\gopika_one_drive\\onedrive\\desktop\\dotnet fs\\fe\u002Bbe\\curewell\\curewelldataaccesslayer\\models\\curewelldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB06FD9-DF62-4B69-ADAC-EE3E91FCB4C8}|CureWellDataAccessLayer\\CureWellDataAccessLayer.csproj|solutionrelative:curewelldataaccesslayer\\models\\curewelldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB06FD9-DF62-4B69-ADAC-EE3E91FCB4C8}|CureWellDataAccessLayer\\CureWellDataAccessLayer.csproj|c:\\gopika_one_drive\\onedrive\\desktop\\dotnet fs\\fe\u002Bbe\\curewell\\curewelldataaccesslayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DB06FD9-DF62-4B69-ADAC-EE3E91FCB4C8}|CureWellDataAccessLayer\\CureWellDataAccessLayer.csproj|solutionrelative:curewelldataaccesslayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB06FD9-DF62-4B69-ADAC-EE3E91FCB4C8}|CureWellDataAccessLayer\\CureWellDataAccessLayer.csproj|c:\\gopika_one_drive\\onedrive\\desktop\\dotnet fs\\fe\u002Bbe\\curewell\\curewelldataaccesslayer\\curewellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB06FD9-DF62-4B69-ADAC-EE3E91FCB4C8}|CureWellDataAccessLayer\\CureWellDataAccessLayer.csproj|solutionrelative:curewelldataaccesslayer\\curewellrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C298BDA-D3CF-4EC5-A4B5-E55B8B7C78AD}|C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellApp|c:\\gopika_one_drive\\onedrive\\desktop\\dotnet fs\\fe\u002Bbe\\curewell\\curewellapp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C298BDA-D3CF-4EC5-A4B5-E55B8B7C78AD}|C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellApp|solutionrelative:curewellapp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellServices\\Program.cs",
+              "RelativeDocumentMoniker": "CureWellServices\\Program.cs",
+              "ToolTip": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellServices\\Program.cs",
+              "RelativeToolTip": "CureWellServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:47:26.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellServices\\appsettings.json",
+              "RelativeDocumentMoniker": "CureWellServices\\appsettings.json",
+              "ToolTip": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellServices\\appsettings.json",
+              "RelativeToolTip": "CureWellServices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-07T15:47:22.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellServices\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CureWellServices\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellServices\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CureWellServices\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-07T15:47:16.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CureWellDbContext.cs",
+              "DocumentMoniker": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellDataAccessLayer\\Models\\CureWellDbContext.cs",
+              "RelativeDocumentMoniker": "CureWellDataAccessLayer\\Models\\CureWellDbContext.cs",
+              "ToolTip": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellDataAccessLayer\\Models\\CureWellDbContext.cs",
+              "RelativeToolTip": "CureWellDataAccessLayer\\Models\\CureWellDbContext.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwGwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:02:11.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellDataAccessLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "CureWellDataAccessLayer\\appsettings.json",
+              "ToolTip": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellDataAccessLayer\\appsettings.json",
+              "RelativeToolTip": "CureWellDataAccessLayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-07T11:00:47.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CureWellRepository.cs",
+              "DocumentMoniker": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellDataAccessLayer\\CureWellRepository.cs",
+              "RelativeDocumentMoniker": "CureWellDataAccessLayer\\CureWellRepository.cs",
+              "ToolTip": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellDataAccessLayer\\CureWellRepository.cs",
+              "RelativeToolTip": "CureWellDataAccessLayer\\CureWellRepository.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAIwJQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T10:55:05.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CureWellController.cs",
+              "DocumentMoniker": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellServices\\Controllers\\CureWellController.cs",
+              "RelativeDocumentMoniker": "CureWellServices\\Controllers\\CureWellController.cs",
+              "ToolTip": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellServices\\Controllers\\CureWellController.cs",
+              "RelativeToolTip": "CureWellServices\\Controllers\\CureWellController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv8kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T10:57:24.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellApp\\package.json",
+              "RelativeDocumentMoniker": "CureWellApp\\package.json",
+              "ToolTip": "C:\\Gopika_One_Drive\\OneDrive\\Desktop\\Dotnet FS\\FE\u002BBE\\CureWell\\CureWellApp\\package.json",
+              "RelativeToolTip": "CureWellApp\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-24T15:32:34.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
